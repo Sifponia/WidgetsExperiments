@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boton_Izqui">150dp</dimen>
+    <dimen name="margin_top">100dp</dimen>
+    <dimen name="marig_izq">10dp</dimen>
+    <dimen name="margin_dere">50dp</dimen>
+    <dimen name="boton_margin2">200dp</dimen>
+    <dimen name="boton2_izq">250dp</dimen>
+    <dimen name="margin_text1_top">300dp</dimen>
+    <dimen name="font_size">20sp</dimen>
+</resources>

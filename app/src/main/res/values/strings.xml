@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WidgetsExperiments</string>
+    <string name="boton_Izq">Boton Izquierda</string>
+    <string name="boton_derecha">Boton derecha</string>
+    <string name="textview1">Bienvenido a Android</string>
+    <string name="todo">TODO</string>
+</resources>
